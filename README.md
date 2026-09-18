@@ -101,6 +101,4 @@ Titanic-Dataset-Analysis/
 
 👩‍💻 Author
 Likitha Kalal
-├── Task_2_Titanic_Dataset_Analysis.ipynb
-├── train.csv
-└── README.md
+
